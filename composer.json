@@ -1,0 +1,11 @@
+{
+    "name": "composerman/file_entity",
+    "authors": [
+        {
+            "name": "Ryan Gurnick",
+            "email": "ryangurnick@gmail.com"
+        }
+    ],
+    "type": "drupal-module",
+    "require": {}
+}
